@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Jordan! </h1>
 
-<!--
-**jordanw9/jordanw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Journey:</h2>
+
+- <b>Google Cybersecurity Certificate Projects</b>
+  - [Title of Project](https://github.com/jordanw9/...)
+
+
+<h2>📺 Other Projects</h2>
+
+<h2> 🤳 LinkedIn:</h2>
+
+[linkedin]: https://www.linkedin.com/in/j-westfall/
 
 Here are some ideas to get you started:
 
