@@ -10,7 +10,7 @@
 
 <h2> 🤳 LinkedIn:</h2>
 
-[linkedin]: (https://www.linkedin.com/in/j-westfall/)
+- [linkedin]: (https://www.linkedin.com/in/j-westfall/)
 
 Here are some ideas to get you started:
 
