@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Journey:</h2>
 
+<b>Hello and welcome to my github / portfolio / blog .. thing!</b>
+
+<b>This is a work in progress (duh). I'll be adding to this as I begin to complete projects to make me more of a rockstart cybersecurity professional. Cheers!</b>
+
 - <b>Google Cybersecurity Certificate Projects</b>
-  - [Title of Project](https://github.com/jordanw9/...)
+  - [PLACEHOLDER, will take you to my githib main](https://github.com/jordanw9)
 
 
 <h2>📺 Other Projects</h2>
@@ -11,15 +15,3 @@
 <h2> 🤳 LinkedIn:</h2>
 
 - [LinkedIn Profile](https://www.linkedin.com/in/j-westfall/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
